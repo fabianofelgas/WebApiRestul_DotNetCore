@@ -1,0 +1,14 @@
+C:\Desenvolvimento\dotnetcore\Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Desenvolvimento\dotnetcore\Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Desenvolvimento\dotnetcore\Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Desenvolvimento\dotnetcore\Tests\bin\Debug\netcoreapp2.2\Tests.deps.json
+C:\Desenvolvimento\dotnetcore\Tests\bin\Debug\netcoreapp2.2\Tests.runtimeconfig.json
+C:\Desenvolvimento\dotnetcore\Tests\bin\Debug\netcoreapp2.2\Tests.runtimeconfig.dev.json
+C:\Desenvolvimento\dotnetcore\Tests\bin\Debug\netcoreapp2.2\Tests.dll
+C:\Desenvolvimento\dotnetcore\Tests\bin\Debug\netcoreapp2.2\Tests.pdb
+C:\Desenvolvimento\dotnetcore\Tests\obj\Debug\netcoreapp2.2\Tests.csprojAssemblyReference.cache
+C:\Desenvolvimento\dotnetcore\Tests\obj\Debug\netcoreapp2.2\Tests.csproj.CoreCompileInputs.cache
+C:\Desenvolvimento\dotnetcore\Tests\obj\Debug\netcoreapp2.2\Tests.AssemblyInfoInputs.cache
+C:\Desenvolvimento\dotnetcore\Tests\obj\Debug\netcoreapp2.2\Tests.AssemblyInfo.cs
+C:\Desenvolvimento\dotnetcore\Tests\obj\Debug\netcoreapp2.2\Tests.dll
+C:\Desenvolvimento\dotnetcore\Tests\obj\Debug\netcoreapp2.2\Tests.pdb

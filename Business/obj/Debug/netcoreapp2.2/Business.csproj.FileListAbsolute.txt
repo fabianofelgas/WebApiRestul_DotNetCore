@@ -1,0 +1,14 @@
+C:\Desenvolvimento\dotnetcore\Business\bin\Debug\netcoreapp2.2\Business.deps.json
+C:\Desenvolvimento\dotnetcore\Business\bin\Debug\netcoreapp2.2\Business.dll
+C:\Desenvolvimento\dotnetcore\Business\bin\Debug\netcoreapp2.2\Business.pdb
+C:\Desenvolvimento\dotnetcore\Business\obj\Debug\netcoreapp2.2\Business.csprojAssemblyReference.cache
+C:\Desenvolvimento\dotnetcore\Business\obj\Debug\netcoreapp2.2\Business.csproj.CoreCompileInputs.cache
+C:\Desenvolvimento\dotnetcore\Business\obj\Debug\netcoreapp2.2\Business.AssemblyInfoInputs.cache
+C:\Desenvolvimento\dotnetcore\Business\obj\Debug\netcoreapp2.2\Business.AssemblyInfo.cs
+C:\Desenvolvimento\dotnetcore\Business\obj\Debug\netcoreapp2.2\Business.dll
+C:\Desenvolvimento\dotnetcore\Business\obj\Debug\netcoreapp2.2\Business.pdb
+C:\Desenvolvimento\dotnetcore\Business\bin\Debug\netcoreapp2.2\DAO.dll
+C:\Desenvolvimento\dotnetcore\Business\bin\Debug\netcoreapp2.2\Model.dll
+C:\Desenvolvimento\dotnetcore\Business\bin\Debug\netcoreapp2.2\DAO.pdb
+C:\Desenvolvimento\dotnetcore\Business\bin\Debug\netcoreapp2.2\Model.pdb
+C:\Desenvolvimento\dotnetcore\Business\obj\Debug\netcoreapp2.2\Business.csproj.CopyComplete

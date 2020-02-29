@@ -1,0 +1,11 @@
+C:\Desenvolvimento\dotnetcore\Model\bin\Debug\netcoreapp2.2\Model.deps.json
+C:\Desenvolvimento\dotnetcore\Model\bin\Debug\netcoreapp2.2\Model.dll
+C:\Desenvolvimento\dotnetcore\Model\bin\Debug\netcoreapp2.2\Model.pdb
+C:\Desenvolvimento\dotnetcore\Model\obj\Debug\netcoreapp2.2\Model.csprojAssemblyReference.cache
+C:\Desenvolvimento\dotnetcore\Model\obj\Debug\netcoreapp2.2\Model.csproj.CoreCompileInputs.cache
+C:\Desenvolvimento\dotnetcore\Model\obj\Debug\netcoreapp2.2\Model.AssemblyInfoInputs.cache
+C:\Desenvolvimento\dotnetcore\Model\obj\Debug\netcoreapp2.2\Model.AssemblyInfo.cs
+C:\Desenvolvimento\dotnetcore\Model\obj\Debug\netcoreapp2.2\Model.dll
+C:\Desenvolvimento\dotnetcore\Model\obj\Debug\netcoreapp2.2\Model.pdb
+C:\Desenvolvimento\dotnetcore\Model\bin\Debug\netcoreapp2.2\Model.runtimeconfig.json
+C:\Desenvolvimento\dotnetcore\Model\bin\Debug\netcoreapp2.2\Model.runtimeconfig.dev.json

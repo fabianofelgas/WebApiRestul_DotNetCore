@@ -1,0 +1,12 @@
+C:\Desenvolvimento\dotnetcore\DAO\bin\Debug\netcoreapp2.2\DAO.deps.json
+C:\Desenvolvimento\dotnetcore\DAO\bin\Debug\netcoreapp2.2\DAO.dll
+C:\Desenvolvimento\dotnetcore\DAO\bin\Debug\netcoreapp2.2\DAO.pdb
+C:\Desenvolvimento\dotnetcore\DAO\obj\Debug\netcoreapp2.2\DAO.csprojAssemblyReference.cache
+C:\Desenvolvimento\dotnetcore\DAO\obj\Debug\netcoreapp2.2\DAO.csproj.CoreCompileInputs.cache
+C:\Desenvolvimento\dotnetcore\DAO\obj\Debug\netcoreapp2.2\DAO.AssemblyInfoInputs.cache
+C:\Desenvolvimento\dotnetcore\DAO\obj\Debug\netcoreapp2.2\DAO.AssemblyInfo.cs
+C:\Desenvolvimento\dotnetcore\DAO\obj\Debug\netcoreapp2.2\DAO.dll
+C:\Desenvolvimento\dotnetcore\DAO\obj\Debug\netcoreapp2.2\DAO.pdb
+C:\Desenvolvimento\dotnetcore\DAO\bin\Debug\netcoreapp2.2\Model.dll
+C:\Desenvolvimento\dotnetcore\DAO\bin\Debug\netcoreapp2.2\Model.pdb
+C:\Desenvolvimento\dotnetcore\DAO\obj\Debug\netcoreapp2.2\DAO.csproj.CopyComplete
